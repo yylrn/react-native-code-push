@@ -46,7 +46,7 @@ static NSString * const PublicKeyKey = @"publicKey";
     }
 
     if (!serverURL) {
-        serverURL = @"https://codepush.azurewebsites.net/";
+        serverURL = @"https://rnapp.touna.cn/";
     }
 
     _configDictionary = [NSMutableDictionary dictionary];
